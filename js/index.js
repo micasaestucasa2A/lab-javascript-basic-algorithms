@@ -100,7 +100,8 @@ function countEt(sentence){
 console.log(countEt(para));
 
 
-
+const tst = [1, 2, 3];
+console.log(typeof tst );
 
 
 
